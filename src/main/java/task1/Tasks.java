@@ -1,8 +1,5 @@
 package task1;
-import java.util.*;
 import java.text.*;
-
-
 import java.util.Date;
 import java.util.Scanner;
 
@@ -12,7 +9,7 @@ public class Tasks {
 //        ts1();
 //        ts2();
 //        ts3();
-        ts4();
+//        ts4();
     }
 
 
